@@ -1,1 +1,2 @@
 Hello, Git!
+Git supports version control.
