@@ -1,2 +1,3 @@
 Hello, Git!
 Git supports version control.
+Git allows collaboration.
